@@ -50,7 +50,7 @@ Shake That Button. 2019. ‘Body Hack – Pirates vs Tentacles’. Shake That Bu
 
 Shake That Button. 2019. ‘Body Hack – Laser Cabinet’. Shake That Button January 2019. Available At: https://shakethatbutton.com/laser-cabinet/ [Accessed 28/01/2019]. 
 
-List of Figures:
+## List of Figures:
 
 Figure 1: Demonstration of the body hack. (Shake That Button, 2019) Available at: http://shakethatbutton.com/body-hack/ [Accessed 28/01/2019].
 
